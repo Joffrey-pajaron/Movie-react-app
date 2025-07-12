@@ -1,6 +1,6 @@
 # 🎬 Movie React App
 
-🔗 **Live Site:** [https://joffreyxd.github.io/Movie-react-app/](https://joffreyxd.github.io/)
+🔗 **Live Site:** [https://joffreyxd.github.io/Movie-react-app/](https://joffreyxd.github.io/Movie-react-app)
 
 This is a simple and clean **Movie Search App** built with **React + Vite**. It was created as part of my learning journey in frontend development, specifically to practice:
 
